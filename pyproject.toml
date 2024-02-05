@@ -10,6 +10,7 @@ packages = [{include = "mltoolbox"}]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"
 scikit-learn = "^1.4.0"
+pandas = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.2.0"
